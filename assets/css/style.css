@@ -1,0 +1,49 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    width: 100%;
+    background-color: rgba(2, 92, 14, 0.836);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100px;
+    background-image: url(../images/abstract-green-background_ts1120.jpg);
+}
+
+h2 {
+    text-align: right;
+}
+
+ul {
+    position: relative;
+    left: 0;
+    text-align: justify;
+    color: goldenrod;
+}
+
+li {
+    display: inline;
+    font-size: 30px;
+    list-style-type: none;
+    margin-right: 15px;
+}
+
+
+
+body {
+    padding-top: 100px;
+    background-image: url(../images/abstract-green-background_ts1120.jpg);
+    background-color: green;
+}
+
+p {
+    font-size: 100px;
+}
+
+#Gold-badge {
+    height: 350px;
+    width: 400px;
+    padding-left: 20px;
+}
